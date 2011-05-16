@@ -26,9 +26,9 @@
 				android:layout_width="wrap_content" android:id="@+id/Button8" />
 			<Button android:layout_height="wrap_content" android:text="はらへった"
 				android:layout_width="wrap_content" android:id="@+id/Button9" />
-			<Button android:layout_height="wrap_content" android:text="かず助いきたい"
+			<Button android:layout_height="wrap_content" android:text="かずすけいきたい"
 				android:layout_width="wrap_content" android:id="@+id/Button10" />
-			<Button android:layout_height="wrap_content" android:text="男のラーメン500円"
+			<Button android:layout_height="wrap_content" android:text="男のラーメン五百円"
 				android:layout_width="wrap_content" android:id="@+id/Button11" />
 			<Button android:layout_height="wrap_content" android:text="まるたかいきたい"
 				android:layout_width="wrap_content" android:id="@+id/Button12" />
